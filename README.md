@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently, I'm working on Windows 365 project. 
+- 🔭 Currently, I am contributing to [Windows 365](https://www.microsoft.com/en-us/windows-365) project at [Microsoft](https://www.microsoft.com/en-us/ard/contactus). 
 
 <a href="https://github.com/eugene2candy/github-stats">
 <img src="https://github.com/eugene2candy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
